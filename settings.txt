@@ -1,7 +1,7 @@
 {
-"showQuality":"false",
-"showSD":"false",
-"showHD":"false",
+"showQuality":"true",
+"showSD":"true",
+"showHD":"true",
 "showLB":"true",
 "LBIDSpot":"3",
 "LBFormatLeft":"https://e1.thetvapp.to/hls/",
