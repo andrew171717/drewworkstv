@@ -1,0 +1,8 @@
+{
+"showSD":"true",
+"showHD":"false",
+"showLB":"true",
+"LBIDSpot":"3",
+"LBFormatLeft":"https://e1.thetvapp.to/hls/",
+"LBFormatRight":"/tracks-v2a1/mono.m3u8"
+}
