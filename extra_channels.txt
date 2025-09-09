@@ -1,1 +1,1 @@
-[{"title":"Minnesota Vikings @ Chicago Bears","url":"https://e1.thetvapp.to/hls/NFL11/tracks-v2a1/mono.m3u8"},{"title":"Disney Channel (East)","url":"https://e1.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8"}]
+[{"title":"Minnesota Vikings @ Chicago Bears","url":"https://e1.thetvapp.to/hls/NFL11/tracks-v2a1/mono.m3u8","expirationDate":"1757394000"},{"title":"Disney Channel (East)","url":"https://e1.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8","expirationDate":"0"}]
