@@ -1,5 +1,6 @@
 {
-"showSD":"true",
+"showQuality":"false",
+"showSD":"false",
 "showHD":"false",
 "showLB":"true",
 "LBIDSpot":"3",
