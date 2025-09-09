@@ -1,9 +1,6 @@
 {
 "playlistUrl":"https://tvpass.org/playlist/m3u",
-"showQuality":"true",
-"showSD":"true",
-"showHD":"true",
-"showLB":"true",
+"customLogic":"true",
 "LBIDSpot":"3",
 "LBFormatLeft":"https://e1.thetvapp.to/hls/",
 "LBFormatRight":"/tracks-v2a1/mono.m3u8"
