@@ -1,4 +1,5 @@
 {
+"playlistUrl":"https://tvpass.org/playlist/m3u",
 "showQuality":"true",
 "showSD":"true",
 "showHD":"true",
