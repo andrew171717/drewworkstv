@@ -4,5 +4,6 @@
 "LBIDSpot":"3",
 "LBFormatLeft":"https://e1.thetvapp.to/hls/",
 "LBFormatRight":"/tracks-v1a1/mono.m3u8",
-"drewworksMessage":""
+"drewworksMessage":"",
+"LBNameEndTrimCount":"0"
 }
