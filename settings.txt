@@ -2,8 +2,8 @@
 "playlistUrl":"https://tvpass.org/playlist/m3u",
 "customLogic":"true",
 "LBIDSpot":"3",
-"LBFormatLeft":"https://e1.thetvapp.to/hls/",
-"LBFormatRight":"/tracks-v1a1/mono.m3u8",
+"LBFormatLeft":"https://tvpass.org/live/",
+"LBFormatRight":"/sd",
 "drewworksMessage":"",
 "LBNameEndTrimCount":"0"
 }
